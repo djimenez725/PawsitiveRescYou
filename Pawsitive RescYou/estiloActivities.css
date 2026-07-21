@@ -1,0 +1,98 @@
+/* El color de fondo y la letra que se presentará en la página */
+
+body {
+	font-family:Calibri; background-color: #E3D7D0;
+}
+
+/* El tamaño que establecí para el heading H1.*/	
+
+h1 {
+	font-size: 50px
+}
+
+/* El tamaño que establecí para el heading H2.*/
+
+h2 {
+	font-size: 39px
+}
+
+/* El texto de la tabla se colocará en el centro.*/
+
+table {
+	text-align: center
+}
+		
+/*Representa el color que será colocado en los vinculo. */
+	
+a {
+	color: #0D221B
+}
+
+/* La letra y el tamaño de la letra establecida para los párrafos*/	
+div { 
+	font-size: 23px
+}
+
+/* Requisitos para la barra de navegación.*/
+
+#navigationbar {
+	font-size:20px;
+	display: block;
+	background-color: #B59A84;
+	padding: 5px 10px;
+}
+
+/* Función para las tablas que tiene la letra y tamaño y se tiene que aplicar individualmente a la tabla. */
+#mitabla{
+	font-family:calibri;
+	font-size: 20px
+}
+
+.imgOp {
+	opacity: 0.8
+}
+
+/* Función de la palabra Connect que se encuentra al frente de la imagen del centro de la página.*/
+
+.seccionActivities{
+	position:absolute;
+	top:320px;
+	left:85px;
+	color:  #0D221B;
+	font-size: 80px;
+}
+.tituloActivities {
+	position:absolute;
+	top:370px;
+	left: 85px;
+	color: black;
+	font-size:80px;
+	}
+.seccionPaws{
+	position:absolute;
+	top:1030px;
+	left:110px;
+	color:  #0D221B;
+	font-size: 40px;
+}
+
+.seccionRescYou{
+	position:absolute;
+	top:1155px;
+	left:105px;
+	color:  #0D221B;
+	font-size: 30px;
+}
+
+.seccionWhiskers{
+	position:absolute;
+	top:1405px;
+	left:105px;
+	color:  #0D221B;
+	font-size: 30px;
+}
+
+.imageBorder {
+	border-radius: 10px;
+}
+
